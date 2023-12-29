@@ -67,3 +67,19 @@
 ### Validation of the website
     - HTML: https://validator.w3.org/
     - CSS: https://jigsaw.w3.org/css-validator/
+
+### Measure the performance of the website
+    - https://developers.google.com/speed/pagespeed/insights/
+    - https://gtmetrix.com/
+    - https://tools.pingdom.com/
+    - https://www.webpagetest.org/
+    - https://www.dotcom-tools.com/website-speed-test.aspx
+    - https://www.uptrends.com/tools/website-speed-test
+    - https://www.monitis.com/free-tools/website-load-test
+    - https://www.webpagetest.org/
+    - https://www.dotcom-tools.com/website-speed-test.aspx
+    - https://www.uptrends.com/tools/website-speed-test
+    - https://www.monitis.com/free-tools/website-load-test
+
+### Screenshot of the website
+![Screenshot of the website](./images/banners.png)
