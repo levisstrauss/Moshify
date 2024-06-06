@@ -118,4 +118,4 @@ The list of all animations is on the GitHub page.
 
 ## Screenshot
 
-![Screenshot of Moshify](img/screenshot.png)
+![Screenshot of the website](./images/banners.png)
