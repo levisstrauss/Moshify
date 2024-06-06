@@ -2,7 +2,7 @@
 
 This is a sample website made as part of learning HTML and CSS lessons.
 
-Check out the website here: [Moshify](moshify-peach.vercel.app)
+Check out the website here: [Moshify](https://moshify-peach.vercel.app/)
 
 ## Table of Contents
 
